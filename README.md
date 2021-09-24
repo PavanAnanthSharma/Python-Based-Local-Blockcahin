@@ -23,7 +23,7 @@ Then the web app will be made by using Flask and deployed locally or publicly as
 "previous_hash":"2d83a826f87415edb31b7e12b35949b9dbf702aee7e383cbab119456847b957c",
 "proof":533,
 "timestamp":"2020-06-01 22:47:59.309000"
-}
+} 
 
 ```
 
